@@ -1,0 +1,115 @@
+/******************** Genel *****************/
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+/******************** Header *****************/
+.starter-h1{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+/******************** Nav *****************/
+.nav{
+    display: flex;
+    justify-content: center;
+}   
+.navlist{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.ml10{
+    margin-left: 10px;
+}
+
+.navlistli{
+display: inline;
+
+}
+
+/******************** Main  *****************/
+
+.welcome-first-p {
+    color: red;
+    text-align: center;
+}
+
+.welcome-text{
+font-size: 19px;
+text-align: center;
+}
+
+.listdiv{
+    margin-right: 25px;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.artist-list-ul-li{
+    padding: 2px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-style: groove;
+}
+
+/******************** Products  *****************/
+
+article ol li img{
+    width: 350px;
+}
+
+article ol li {
+    padding-left: 50;
+    }
+
+article ol li p{
+text-align: center;
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+}
+
+/******************** About-Us  *****************/
+
+.about-us-h2{
+    font-size: 20px;
+    background-color: rgb(228, 207, 154);
+}
+
+.mission{
+    font-size: 18px;
+    background-color: rgb(228, 207, 154);
+}
+.missionandtarget p{
+font-size:16px;
+text-align: center;
+margin: 0;
+}
+
+.target{
+    font-size: 18px;
+    background-color: rgb(228, 207, 154);
+}
+
+iframe{
+    padding: 2%;
+}
+
+.insta:hover{
+    background-color:lavender;
+    border-radius: 50%;
+}
+
+.mail:hover{
+    background-color:lavender;
+    border-radius: 50%;
+}
