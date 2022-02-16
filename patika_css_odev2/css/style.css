@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+}
+
+main{
+    margin: 0px 5%;
+}
+
+/* Yatay ve düşey hizalamalar için kullanılacak class */
+.center-horizontal{
+   text-align: center;
+}
+/* Flex yapısı için kullanılacak */
+.center-vertical{
+    align-items: center;
+}
+
+/* 4 adet Background'um var ve renkleri ayarlamak lazım. */
+.bgc-1{
+    background-color: rgb(238 238 238);
+}
+
+.bgc-2{
+    background-color: rgb(126 229 218);;
+}
+
+.bgc-3{
+    background-color: rgb(112 204 194);
+}
+
+.bgc-4{
+    background-color: rgb(98 179 170);
+}
+
+/* Header */
+
+/* Font-size ayarlayalım. */
+.fs-13{
+    font-size: 13px;
+}
+/* Margin pratik */
+mt1{
+    margin-top: 0.25em;
+}
+
+/* Arama Çubuğu altındakı gruplara id verelim ki işler kolaylaşsın */
+
+.flex{
+    display: flex;
+}
+
+#left-group{
+    width: 39%;
+    display: flex;
+    flex-direction: column;
+}
+
+#center-group{
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+}
+
+#right-group{
+    width: 39%;
+}
+
+.all-groups{
+    border-spacing: 2px;
+    margin: 1px;
+    margin-top: 0px;
+    height: 72px;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.flex-column{
+    flex-direction: column;
+}
