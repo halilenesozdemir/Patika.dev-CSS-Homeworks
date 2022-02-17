@@ -16,6 +16,6 @@
 
 3. **Ödev 3 :**
    
-    - **Ödev :** Sınırları aştık ve Google'in güncel anasayfasını %90 yaklaşıkla tamamlamayı başardık. Yorucu ama keyifliydi
+    - **Ödev :** Sınırları aştık ve Google'in güncel anasayfasını %90 yaklaşıkla tamamlamayı başardık. Yorucu ama keyifliydi.
 
     - **Tamamlanmış Ödev :** [patika_css_odev3](https://github.com/halilenesozdemir/Patika.dev-CSS-Homeworks/tree/main/patika_css_odev3)
